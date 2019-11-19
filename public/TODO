@@ -1,0 +1,4 @@
+ShiftPattern.jsx --> Set default time
+				 --> Proper error messages
+Allocation.jsx --> Ensure uuid is unique for each pc
+

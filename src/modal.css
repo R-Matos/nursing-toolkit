@@ -1,0 +1,12 @@
+.header {
+  color: white;
+  border: 1px solid lightblue;
+  padding: 15px;
+  background-color:#007BFF;
+}
+
+
+.inline {
+  display: inline-block;
+  margin: 1em;
+}
